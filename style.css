@@ -6,9 +6,9 @@
 
 html {
   background: url(bild.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
   background-size: auto;
 }
 
